@@ -1,0 +1,14 @@
+{
+  "name": "simplexnoisepattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "timashan",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch-util": "^1.10.0"
+  }
+}
